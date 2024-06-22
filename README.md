@@ -1,6 +1,6 @@
 # Hi, I'm vPrah!👋
 
-I'm a developer from India, I'm passionate about programming.
+I'm a developer from Latin America, I'm passionate about programming.
 
 ## Skills and Expertise 👨🏻‍💻
 
