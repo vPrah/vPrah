@@ -22,7 +22,7 @@ Here are the programming languages, frameworks, and tools that I am proficient i
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ## Contact for some shit 📞
-  Discord Contact: **vPrah** XD
+  Discord Contact: **vPrah** 
 
 
 ## My Statistics 📊
