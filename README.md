@@ -6,7 +6,7 @@ I'm a developer from Latin America, I'm passionate about programming.
 
 Here are the programming languages, frameworks, and tools that I am proficient in:
  
- **Languages**: Java, Python, Kotlin
+ **Languages**: Java, Python, Kotlinn
  <br>
  **Other Tools**: Gradle, Git.
 
