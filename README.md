@@ -1,4 +1,4 @@
-# Hi, I'm vPrah SIGMA!👋
+# Hi, I'm vPrah!👋
 
 I'm a developer from Latin America, I'm passionate about programming.
 
